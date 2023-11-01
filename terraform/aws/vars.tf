@@ -1,5 +1,5 @@
 variable "bucket_name" {
-  default = "kinhansand"
+  default = "kinhansand0"
 }
 
 variable "website_endpoint" {
